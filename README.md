@@ -17,9 +17,9 @@
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="./img/visual-studio-code.png" />][]
 [<img align="left" alt="HTML5" width="26px" src="./img/html.png" />][]
-[<img align="left" alt="CSS3" width="26px" src="./img/css.png" />][cssplaylist]
-[<img align="left" alt="Sass" width="26px" src="./img/sass.png" />][cssplaylist]
-[<img align="left" alt="JavaScript" width="26px" src="./img/javascript.png" />][jsplaylist]
+[<img align="left" alt="CSS3" width="26px" src="./img/css.png" />][]
+[<img align="left" alt="Sass" width="26px" src="./img/sass.png" />][]
+[<img align="left" alt="JavaScript" width="26px" src="./img/javascript.png" />][]
 [<img align="left" alt="Node.js" width="26px" src="./img/nodejs.png" />][]
 [<img align="left" alt="SQL" width="26px" src="./img/sql.png" />][]
 [<img align="left" alt="Git" width="26px" src="./img/git.png" />][]
