@@ -28,5 +28,5 @@
 <img align="left" alt="Terminal" width="26px" src="./img/terminal.png" />
 <img align="left" alt="Ubuntu" width="26px" src="./img/ubuntu.png" />
 <img align="left" alt="PostgreSQL" width="26px" src="./img/postgresql.png" />
-<img align="left" alt="Java" width="26px" src="./img/duke-java.png" />
+<img align="left" alt="Java" width="26px" src="./img/java.png" />
 
