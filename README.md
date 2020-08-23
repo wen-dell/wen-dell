@@ -2,9 +2,6 @@
 
 ## Currently, I code more Java and JavaScript stuff
 
-### My Spotify ❤️🎧
-[<img src="./img/spotify.png" alt="Spotify" width="80" />](https://open.spotify.com/user/u5mkf7vg266pmjqwh7y7d1h9z)
-
 <br />
 
 ### Languages and Tools:
