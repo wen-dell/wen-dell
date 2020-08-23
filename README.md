@@ -15,18 +15,18 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="./img/visual-studio-code.png" />][VS]
-[<img align="left" alt="HTML5" width="26px" src="./img/html.png" />][HTML5]
-[<img align="left" alt="CSS3" width="26px" src="./img/css.png" />][CSS3]
-[<img align="left" alt="Sass" width="26px" src="./img/sass.png" />][SASS]
-[<img align="left" alt="JavaScript" width="26px" src="./img/javascript.png" />][JS]
-[<img align="left" alt="Node.js" width="26px" src="./img/nodejs.png" />][NODE]
-[<img align="left" alt="SQL" width="26px" src="./img/sql.png" />][SQL]
-[<img align="left" alt="Git" width="26px" src="./img/git.png" />][GIT]
-[<img align="left" alt="GitHub" width="26px" src="./img/github.png" />][GITHUB]
-[<img align="left" alt="Terminal" width="26px" src="./img/terminal.png" />][TERMINAL]
-[<img align="left" alt="Ubuntu" width="26px" src="./img/ubuntu.png" />][UBUNTU]
-[<img align="left" alt="PostgreSQL" width="26px" src="./img/postgresql.png" />][POSTGRESQL]
-[<img align="left" alt="Java" width="26px" src="./img/java.png" />][JAVA]
-[<img align="left" alt="Spring Framework" width="26px" src="./img/spring-framework.png" />][SPRING]
+<img align="left" alt="Visual Studio Code" width="26px" src="./img/visual-studio-code.png" />
+<img align="left" alt="HTML5" width="26px" src="./img/html.png" />
+<img align="left" alt="CSS3" width="26px" src="./img/css.png" />
+<img align="left" alt="Sass" width="26px" src="./img/sass.png" />
+<img align="left" alt="JavaScript" width="26px" src="./img/javascript.png" />
+<img align="left" alt="Node.js" width="26px" src="./img/nodejs.png" />
+<img align="left" alt="SQL" width="26px" src="./img/sql.png" />
+<img align="left" alt="Git" width="26px" src="./img/git.png" />
+<img align="left" alt="GitHub" width="26px" src="./img/github.png" />
+<img align="left" alt="Terminal" width="26px" src="./img/terminal.png" />
+<img align="left" alt="Ubuntu" width="26px" src="./img/ubuntu.png" />]
+<img align="left" alt="PostgreSQL" width="26px" src="./img/postgresql.png" />
+<img align="left" alt="Java" width="26px" src="./img/java.png" />
+<img align="left" alt="Spring Framework" width="26px" src="./img/spring-framework.png" />
 
