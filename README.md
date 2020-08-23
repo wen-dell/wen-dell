@@ -9,7 +9,7 @@
 - ⚡ Fun fact: I love to draw and play guitar / drums
 
 ### My Spotify ❤️🎧
-[<img src="./img/spotify.png" alt="Spotify" width="350" />](https://open.spotify.com/user/u5mkf7vg266pmjqwh7y7d1h9z)
+[<img src="./img/spotify.png" alt="Spotify" width="80" />](https://open.spotify.com/user/u5mkf7vg266pmjqwh7y7d1h9z)
 
 <br />
 
