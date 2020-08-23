@@ -29,5 +29,5 @@
 <img align="left" alt="Ubuntu" width="26px" src="./img/ubuntu.png" />
 <img align="left" alt="PostgreSQL" width="26px" src="./img/postgresql.png" />
 <img align="left" alt="Java" width="26px" src="./img/java.png" />
-<img align="left" alt="Spring Framework" width="26px" src="./img/spring-framework.png" />
+<img align="left" alt="Spring Framework" width="26px" src="./img/spring-framework.jpg" />
 
