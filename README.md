@@ -19,6 +19,7 @@ Hi, I'm Wendell!
 <img align="left" alt="React" src="https://camo.githubusercontent.com/add401f6b6c36c9de13e084e6a00d7399d2d7b0abb3c970449843611b28ac231/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d6666663f266c6f676f3d5265616374" />
 
 <br/>
+<br/>
 
 💬️ Here are my stats:
 
