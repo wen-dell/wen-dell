@@ -18,13 +18,6 @@ Hi, I'm Wendell!
 <img align="left" alt="TypeScript" src="https://camo.githubusercontent.com/1801e217aae3b154da763c0162358246d573319ee2d606d6e83145bc8b861a3c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d547970655363726970742d6666663f266c6f676f3d54797065536372697074266c6f676f436f6c6f723d303037414343" />
 <img align="left" alt="React" src="https://camo.githubusercontent.com/add401f6b6c36c9de13e084e6a00d7399d2d7b0abb3c970449843611b28ac231/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d6666663f266c6f676f3d5265616374" />
 
-<br/>
-<br/>
-
-💬️ Here are my stats:
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wen-dell)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
 
